@@ -122,3 +122,5 @@ In making the player, we will be using SDL to output the audio and video of the 
 This tutorial is meant for people with a decent programming background. At the very least you should know C and have some idea about concepts like queues, mutexes, and so on. You should know some basics about multimedia; things like waveforms and such, but in case you don't know much about multimedia, you can always find some quality material with the help of google. 
 
 * [How ADC works? - Hardware Secrets](http://www.hardwaresecrets.com/article/317)
+
+**********************************************************************
